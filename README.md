@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming one of the top developers in Nodak!!
 - 🌱 I’m currently in progress of becoming a dev wizard.
 - 💞️ I’m looking to collaborate with full stack developers.
-- 📫 How to reach me:
+- 📫 Reach me at:
 - : https://www.instagram.com/helfenbergerhelper/
 - : https://www.facebook.com/andrew.helfenberger
 - ⚡ Fun fact: It's easy to do something small everyday, and it's also easy to not do something small everyday. Results show up from consistant efforts.
