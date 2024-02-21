@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Helfenberger
-- 👀 I’m interested in becoming one of the top developers in Nodak!!
+- 👀 I’m interested in becoming a full stack developer!!
 - 🌱 I’m currently in progress of becoming a dev wizard.
-- 💞️ I’m looking to collaborate with full stack developers.
 - 📫 Reach me at:
 - : https://www.instagram.com/helfenbergerhelper/
 - : https://www.facebook.com/andrew.helfenberger
