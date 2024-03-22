@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Helfenberger
-- 👀 I’m interested in becoming a full stack developer!!
-- 🌱 I’m currently in progress of becoming a dev wizard.
+- 👀 I’m interested in becoming a full stack dev wizard!!
 - 📫 Reach me at:
 - : https://www.instagram.com/helfenbergerhelper/
 - : https://www.facebook.com/andrew.helfenberger
