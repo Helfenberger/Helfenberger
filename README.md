@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Helfenberger
-- 👀 I’m interested in becoming a full stack dev wizard!!
 
 - ⚡ Fun fact: It's easy to do something small everyday, and it's also easy to not do something small everyday. Results show up from consistant efforts.
 <!---
